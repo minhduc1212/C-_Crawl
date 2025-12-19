@@ -1,0 +1,14 @@
+D:\LT\Crawl with c#\bin\Debug\net9.0\Crawl with c#.exe
+D:\LT\Crawl with c#\bin\Debug\net9.0\Crawl with c#.deps.json
+D:\LT\Crawl with c#\bin\Debug\net9.0\Crawl with c#.runtimeconfig.json
+D:\LT\Crawl with c#\bin\Debug\net9.0\Crawl with c#.dll
+D:\LT\Crawl with c#\bin\Debug\net9.0\Crawl with c#.pdb
+D:\LT\Crawl with c#\obj\Debug\net9.0\Crawl with c#.GeneratedMSBuildEditorConfig.editorconfig
+D:\LT\Crawl with c#\obj\Debug\net9.0\Crawl with c#.AssemblyInfoInputs.cache
+D:\LT\Crawl with c#\obj\Debug\net9.0\Crawl with c#.AssemblyInfo.cs
+D:\LT\Crawl with c#\obj\Debug\net9.0\Crawl with c#.csproj.CoreCompileInputs.cache
+D:\LT\Crawl with c#\obj\Debug\net9.0\Crawl with c#.dll
+D:\LT\Crawl with c#\obj\Debug\net9.0\refint\Crawl with c#.dll
+D:\LT\Crawl with c#\obj\Debug\net9.0\Crawl with c#.pdb
+D:\LT\Crawl with c#\obj\Debug\net9.0\Crawl with c#.genruntimeconfig.cache
+D:\LT\Crawl with c#\obj\Debug\net9.0\ref\Crawl with c#.dll
