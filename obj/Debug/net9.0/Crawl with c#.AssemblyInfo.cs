@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Crawl with c#")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f9fb679fcab71e43ddb10445cc5c5460d4faadd3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Crawl with c#")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Crawl with c#")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
